@@ -4,6 +4,7 @@ My own stubborn preference for an art/artist distinction makes this introduction
 I knew I wanted to set this soundscape at a location called The Edge of the World. This setting was inspired by *Waiting for Godot*, and, more impactfully, The Ringed City from *Dark Souls 3*. I had two interpretations in mind while writing for this soundscape:
 1. The traveler is dead/dying
 2. The traveler has reached the "end of the map", has traversed to the outskirts of charted territory, and is confronted with the space between the known and unknown.
+
 Of these two, I prefer the latter. Both of these interpretations rely on reading the text as metaphor. Of course, a literal interpretation of these events is possible. This line may be an interesting one to pursue, though I did not have it in mind while creating this project.
 
 I had a particular image for the sequence of events in this soundscape. It begins with a traveler, who has been traveling for quite some time. They are walking on non-solid ground- candidates for the material on which they were walking included ash, loose dirt, sand, and snow. A strong wind picks up, and the traveler's steps slow to a halt. The traveler stands here for a moment, then the door of a small house creaks open. An old woman confronts the traveler from this building, and the two have a conversation about the location at which the traveler has arrived. The old woman invites the traveler in for tea, but it is unclear if the traveler accepts this.   
